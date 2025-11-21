@@ -2,7 +2,7 @@
 - **Building the backend magic with python & Go**.
 - ***Creating Web apps*** / ***tg mini apps*** / ***tg bots*** / ***AI services***
 - Student at BMSTU Software Engineering `28
-- Backend dev at letsscale
+- Backend dev at KTS
 
 
 ## 🌐 Socials:
